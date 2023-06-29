@@ -13,8 +13,8 @@ KIINTEISTÖN SAANTO
 
 Kiinteistön saantoa koskevat yleiset säännökset
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+1:1
+§
 
 Kiinteistön luovutus
 
@@ -23,8 +23,8 @@ muulla luovutuksella niin kuin tässä laissa säädetään. Perintöön,
 testamenttiin, ositukseen, lunastukseen sekä muutoin muuhun kuin
 luovutukseen perustuvasta kiinteistön saannosta säädetään erikseen.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+1:2
+§
 
 Kiinteistön osan luovutus
 
@@ -36,7 +36,7 @@ määräalan sekä yhteisalueosuuden luovutukseen.
 
 Kiinteistön kauppa
 
-1
+2:1
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kauppakirjan muoto
@@ -66,8 +66,8 @@ tavalla. Jos myyjä ja ostaja ovat sopineet kauppakirjaan merkittyä
 suuremmasta kauppahinnasta tai muusta vastikkeesta, myyjällä ei ole
 oikeutta saada perityksi enempää kuin mitä kauppakirjaan on merkitty.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:2
+§
 
 Purkava ja lykkäävä ehto
 
@@ -83,8 +83,8 @@ voimassaoloaikaa ole merkitty kauppakirjaan, se on voimassa viisi
 vuotta. Kanne kiinteistön palauttamisesta myyjälle on pantava vireille
 kolmen kuukauden kuluessa ehdon voimassaolon päättymisestä.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:3
+§
 
 Valtuutus kiinteistön kauppaan
 
@@ -99,7 +99,7 @@ Asiamies voi toimia kaupankäyntijärjestelmässä myös sellaisen
 valtuutuksen nojalla, josta säädetään 9 a luvun 1 §:n 3
 momentissa. [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
-[<u>4
+2:4
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Perustettavan yhtiön lukuun tehty kauppa
@@ -115,22 +115,22 @@ oikeutensa luopua kaupasta, jollei kannetta ole pantu vireille kahden
 vuoden kuluessa kaupan
 tekemisestä. [<u>(21.7.2006/632)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a21.7.2006-632)
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:5
+§
 
 Sopimus kaupan purkamisesta
 
 Sopimus, jolla kiinteistön kauppa puretaan tai kiinteistö palautetaan
 myyjälle, on tehtävä 1 ja 3 §:ssä säädetyllä tavalla.
 
-6
+2:6
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Kaupanvahvistaja
 
 Kaupanvahvistajasta ja kaupanvahvistajan tehtävistä säädetään erikseen.
 
-[<u>7
+2:7
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Esisopimus
@@ -156,7 +156,7 @@ kiinteistö on vastoin esisopimusta luovutettu jollekin muulle,
 esisopimuksessa tarkoitetulla ostajalla on oikeus saada korvaus
 vahingostaan myyjältä.
 
-[<u>8
+2:8
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Korvaus kaupasta vetäytymisestä
@@ -169,8 +169,8 @@ liittyvistä tarpeellisista toimista aiheutuneet kohtuulliset
 kustannukset. Jos käsirahaa on annettu, osapuolen on palautettava siitä
 osa, joka ylittää edellä mainitut kustannukset.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:9
+§
 
 Sopimusvapaus
 
@@ -182,7 +182,7 @@ kuuluvista oikeuksista ja velvoitteista. Ostajan 17–34 §:n mukaisia
 oikeuksia voidaan rajoittaa vain sopimalla yksilöidysti siitä, millä
 tavalla hänen asemansa poikkeaa laissa säädetystä.
 
-[<u>10
+2:10
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Asuinkiinteistön hankkiminen elinkeinonharjoittajalta
@@ -208,7 +208,7 @@ viivästyminen on johtunut maksuvaikeuksista, joihin ostaja sairauden,
 työttömyyden tai muun erityisen seikan vuoksi pääasiallisesti omatta
 syyttään on joutunut.
 
-[<u>11
+2:11
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Pätemättömät ehdot
@@ -241,8 +241,8 @@ momentissa säädetään.
 Kohtuuttoman ehdon sovittelusta säädetään varallisuusoikeudellisista
 oikeustoimista annetun lain 36 §:ssä.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:12
+§
 
 Myyjän luovutusvelvollisuus
 
@@ -256,8 +256,8 @@ saantokirjat, jotka ovat tarpeen lainhuudon saamiseksi. Sama koskee
 panttikirjoja, vuokrasopimuksia ja muita näihin verrattavia asiakirjoja,
 jotka ovat ostajalle kiinteistön omistajana tarpeen.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:13
+§
 
 Kiinteistön tuotto myyjän hallinta-aikana
 
@@ -270,8 +270,8 @@ oikeuksia.
 Ostaja ei saa oikeudellisesti määrätä kiinteistöstä niin, että myyjän 1
 momentin mukaisten tai sovittujen oikeuksien käyttö estyy.
 
-[<u>14
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:14
+§
 
 Kiinteistön käyttö ennen omistusoikeuden siirtymistä
 
@@ -288,8 +288,8 @@ panttioikeus tai erityinen oikeus ei sido myyjää, ellei omistusoikeus
 siirry lopullisesti
 ostajalle. [<u>(23.8.2013/623)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a23.8.2013-623)
 
-[<u>15
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:15
+§
 
 Vastuu julkisoikeudellisesta saamisesta
 
@@ -301,8 +301,8 @@ edeltävään aikaan.
 Kiinteistön kaupasta suoritettavasta varainsiirtoverosta vastaa
 ostaja. [<u>(29.11.1996/933)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a29.11.1996-933)
 
-[<u>16
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:16
+§
 
 Vastuu kiinteistön vahingoittumisesta
 
@@ -312,8 +312,8 @@ riippumattoman syyn vuoksi, vaikka kiinteistö on jäänyt myyjän
 hallintaan tai vaikka omistusoikeuden pysyminen tai siirtyminen on
 kauppakirjassa sovittu ehdolliseksi.
 
-[<u>17
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:17
+§
 
 Laatuvirhe
 
@@ -345,8 +345,8 @@ on olennainen, oikeus purkaa kauppa. Ostajalla on lisäksi 1 momentin 1–4
 kohdassa tarkoitetun virheen perusteella oikeus saada korvaus
 vahingostaan.
 
-[<u>18
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:18
+§
 
 Vallintavirhe
 
@@ -388,8 +388,8 @@ Ostajalla on virheen perusteella oikeus hinnanalennukseen tai, jos virhe
 on olennainen, oikeus purkaa kauppa. Ostajalla on lisäksi oikeus saada
 korvaus vahingostaan.
 
-[<u>19
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:19
+§
 
 Oikeudellinen virhe
 
@@ -422,8 +422,8 @@ Ostajalla on virheen perusteella oikeus hinnanalennukseen tai, jos virhe
 on olennainen, oikeus purkaa kauppa. Ostajalla on lisäksi oikeus saada
 korvaus vahingostaan.
 
-[<u>20
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:20
+§
 
 Muun kuin myyjän antamat tiedot
 
@@ -435,8 +435,8 @@ Kiinteistönvälittäjän korvausvastuusta sekä siitä, mitä tietoja
 kiinteistönvälittäjän tai elinkeinonharjoittajan on annettava
 kiinteistöä markkinoidessaan, säädetään erikseen.
 
-[<u>21
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:21
+§
 
 Virheen määräytymisen ajankohta
 
@@ -447,8 +447,8 @@ virheestä, vaikka virhe ilmenee vasta myöhemmin.
 Ostaja ei saa vedota virheeseen, jonka myyjä on korjannut ennen kuin
 kiinteistö on luovutettu ostajalle.
 
-[<u>22
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:22
+§
 
 Ostajan tieto virheestä
 
@@ -466,8 +466,8 @@ Myyjä ei vapaudu vastuusta 1 ja 2 momentin nojalla, jos hän on
 menetellyt kunnianvastaisesti ja arvottomasti tai törkeän
 huolimattomasti.
 
-[<u>23
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:23
+§
 
 Kiinteistön vahingoittaminen ja oikeudeton käyttö
 
@@ -482,8 +482,8 @@ Jos myyjä on kaupan tekemisen jälkeen oikeudettomasti perustanut
 kiinteistöä rasittavan panttioikeuden tai erityisen oikeuden,
 sovelletaan, mitä 1 momentissa säädetään.
 
-[<u>24
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:24
+§
 
 Myyjän suoritusvelvollisuuden täyttämättä jättäminen
 
@@ -493,8 +493,8 @@ oikeus saada hinnanalennusta tai, jos sopimusrikkomus on olennainen koko
 kaupan kannalta, oikeus purkaa kiinteistön kauppa. Ostajalla on lisäksi
 oikeus saada korvaus vahingostaan.
 
-[<u>25
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:25
+§
 
 Virheestä ilmoittaminen
 
@@ -513,8 +513,8 @@ Myyjä ei vapaudu vastuusta 1 tai 2 momentin nojalla, jos hän on
 menetellyt kunnianvastaisesti ja arvottomasti tai törkeän
 huolimattomasti.
 
-[<u>26
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:26
+§
 
 Vaatimuksen kohdistaminen elinkeinonharjoittajaan
 
@@ -544,8 +544,8 @@ Ostajan on ilmoitettava havaitsemastaan virheestä ja vaatimuksestaan
 elinkeinonharjoittajalle. Virheilmoituksesta on voimassa, mitä 25 §:n 1
 ja 3 momentissa säädetään.
 
-[<u>27
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:27
+§
 
 Myyjän viivästys
 
@@ -558,8 +558,8 @@ Jollei myyjä luovuta 12 §:n 2 momentissa tarkoitettuja asiakirjoja
 ostajalle sovittuna ajankohtana, sovelletaan, mitä 1 momentissa
 säädetään.
 
-[<u>28
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:28
+§
 
 Ostajan viivästys
 
@@ -579,8 +579,8 @@ vahingonkorvausta tai purkaa kauppaa.
 Myyjän oikeudesta saada viivästyskorkoa säädetään
 korkolaissa [<u>(633/82)</u>](https://www.finlex.fi/fi/laki/ajantasa/1982/19820633).
 
-[<u>29
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:29
+§
 
 Ostajan ennakkoviivästys
 
@@ -602,8 +602,8 @@ ei ole määrältään olennainen tai jos siitä asetetaan hyväksyttävä vakuu
 kohtuullisessa ajassa maksukehotuksen antamisen jälkeen. Jos kauppa
 puretaan, myyjällä on lisäksi oikeus saada korvaus vahingostaan.
 
-[<u>30
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:30
+§
 
 Oikeus pidättyä suorituksesta
 
@@ -615,8 +615,8 @@ on oikeus pidättyä kiinteistön hallinnan luovuttamisesta. Jos myyjä on
 pidättänyt kiinteistön hallinnan, hän saa jatkaa kiinteistön käyttöä 13
 §:ssä säädetyllä tavalla.
 
-[<u>31
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:31
+§
 
 Hinnanalennus
 
@@ -632,8 +632,8 @@ kauppahinnalle [<u>korkolain 3
 momentin mukaista korkoa siitä päivästä lukien, jona hän vastaanotti
 kauppahinnan.
 
-[<u>32
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:32
+§
 
 Korvattava vahinko
 
@@ -649,8 +649,8 @@ sopimusrikkomuksen syy, vahingon aiheuttajan mahdollisuus ehkäistä
 vahinko ja toisen sopijapuolen myötävaikutus vahinkoon sekä muut
 olosuhteet.
 
-[<u>33
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:33
+§
 
 Kaupan purku
 
@@ -677,8 +677,8 @@ sopijapuoli täyttää oman velvollisuutensa sekä maksaa korvauksen ja
 koron, jotka tämä on velvollinen suorittamaan, tai asettaa hyväksyttävän
 vakuuden niiden suorittamisesta.
 
-[<u>34
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+2:34
+§
 
 Purkuoikeuden rajoitukset
 
@@ -701,8 +701,8 @@ jos hänen saantonsa on julistettu tehottomaksi.
 
 Saannonmoite ja oikeuksien pysyvyys kiinteistönkaupassa
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:1
+§
 
 Saannonmoite
 
@@ -713,8 +713,8 @@ kiinteistön palauttamista takaisin omistukseensa.
 Perusteista, joilla oikea omistaja menettää oikeutensa
 saannonmoitteeseen, säädetään 13 luvun 4, 5, 9 ja 10 §:ssä.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:2
+§
 
 Myyjän saantomiehen vastuu
 
@@ -724,8 +724,8 @@ myyjän edeltäjään, jonka saannossa olevan virheellisyyden perusteella
 ostajan saanto on julistettu tehottomaksi. Jos ostaja on 2 luvun 19 §:n
 nojalla kohdistanut vaatimuksensa myyjään, tällä on vastaava oikeus.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:3
+§
 
 Ostajan oikeudet ja velvollisuudet
 
@@ -739,8 +739,8 @@ alentunut, hänen on maksettava arvon alentumista vastaava korvaus
 oikealle omistajalle, jollei korvauksen maksamista ole olosuhteisiin
 nähden pidettävä kohtuuttomana.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:4
+§
 
 Oikean omistajan korvausvelvollisuus
 
@@ -759,7 +759,7 @@ Ostaja saa pitää kiinteistön hallinnassaan siihen saakka, kunnes 1
 momentissa tarkoitetut korvaukset on maksettu tai niiden maksamisesta on
 asetettu hyväksyttävä vakuus.
 
-[<u>5
+3:5
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Aika vaatimusten esittämiseen
@@ -769,8 +769,8 @@ siitä, kun kiinteistön hallinta on moitekanteen vuoksi palautettu
 oikealle omistajalle. Määräajan päättyminen ei estä vaatimasta
 kuittausta toisen osapuolen vireillepanemassa oikeudenkäynnissä.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:6
+§
 
 Saantojen keskinäinen pysyvyys
 
@@ -783,8 +783,8 @@ voimassa, mitä 2 luvun 19 §:ssä säädetään. Ostajien keskinäisestä
 korvausvelvollisuudesta on soveltuvin osin voimassa, mitä 3 ja 4 §:ssä
 säädetään.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:7
+§
 
 Kirjattavan oikeuden pysyvyys
 
@@ -797,8 +797,8 @@ Myyjän kaupanteon jälkeen kiinteistöön perustama kirjaamiskelpoinen
 erityinen oikeus ei ole ostajaa sitova, ellei 13 luvun 3 §:stä muuta
 johdu.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:8
+§
 
 Kiinteistöön kohdistuvan muun oikeuden pysyvyys
 
@@ -806,8 +806,8 @@ Jollei toisin säädetä, kiinteistöön oikeustoimella perustettu muu kuin
 14 luvun 1 §:ssä tarkoitettu erityinen oikeus sitoo kiinteistön ostajaa
 vain, jos hän kauppaa tehtäessä tiesi oikeudesta.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:9
+§
 
 Myyjän vastuu
 
@@ -818,8 +818,8 @@ aiheutuneesta vahingosta.
 Jos erityinen oikeus jää ostajaa sitovaksi, ostajalla on myyjään nähden
 2 luvun 19 ja 23 §:ssä säädetyt oikeudet.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+3:10
+§
 
 Suoja pakkotäytäntöönpanossa
 
@@ -835,16 +835,16 @@ oikeutta luovuttaa kiinteistöä.
 Kiinteistön kauppaa koskevien säännösten soveltuminen muihin
 luovutuksiin
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+4:1
+§
 
 Kiinteistöjen vaihto
 
 Mitä 2 ja 3 luvussa säädetään kiinteistön kaupasta, koskee soveltuvin
 osin kiinteistöjen vaihtoa.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+4:2
+§
 
 Kiinteistön lahja
 
@@ -858,8 +858,8 @@ lahjoitus, mikäli lahjansaaja ei ole luovuttanut kiinteistöä jollekin
 toiselle. Kanne lahjoituksen purkamisesta on pantava vireille vuoden
 kuluessa siitä, kun lahjanantaja sai tiedon purkuperusteesta.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+4:3
+§
 
 Muu luovutus
 
@@ -870,8 +870,8 @@ määräosin omistetun kiinteistön jakamisesta taikka kiinteistön
 omistusoikeuden luovuttamista muulla näihin verrattavalla
 oikeustoimella.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+4:4
+§
 
 Käyttöoikeuden luovutus
 
@@ -902,8 +902,8 @@ asiointijärjestelmät [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/aja
 Kirjaamisasioita ja sähköisiä asiointijärjestelmiä koskevat yleiset
 säännökset [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+5:1
+§
 
 Kirjaamisasiat
 
@@ -915,7 +915,7 @@ Kirjaamisasioista pidetään lainhuuto- ja kiinnitysrekisteriä.
 Lainhuuto- ja kiinnitysrekisteriin tehdään myös merkintöjä muista
 kiinteistöön kohdistuvista oikeuksista ja rasituksista.
 
-2
+5:2
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Kirjaamisviranomainen
@@ -940,7 +940,7 @@ asia. [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/199
 Kirjaamislakimieheltä vaaditaan oikeustieteen ylempi
 korkeakoulututkinto.
 
-3
+5:3
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköiset asiointijärjestelmät ja niiden käyttötarkoitus
@@ -964,8 +964,8 @@ asiointijärjestelmien ylläpidosta ja kehittämisestä.
 
 Kirjaamishakemus ja sen käsittely
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:1
+§
 
 Hakemus
 
@@ -990,8 +990,8 @@ esitetyistä asiakirjoista ja jollei jäljempänä toisin säädetä.
 Verosta, joka on suoritettava kirjaamista haettaessa, säädetään
 varainsiirtoverolaissa [<u>(931/1996)</u>](https://www.finlex.fi/fi/laki/ajantasa/1996/19960931). [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:2
+§
 
 Hakemuksen toimittaminen
 
@@ -1001,8 +1001,8 @@ välityksellä kirjaamisviranomaiselle.
 *2 momentti on kumottu
 L:lla [<u>13.12.2013/922</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922).*
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:3
+§
 
 Vireilletulo
 
@@ -1015,8 +1015,8 @@ verosta. [<u>(29.11.1996/933)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/
 Vireille tulleesta hakemuksesta tehdään viipymättä merkintä lainhuuto-
 ja kiinnitysrekisteriin.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:4
+§
 
 Viranomaisen selvittämisvelvollisuus
 
@@ -1026,8 +1026,8 @@ koskevat tiedot ovat saatavissa lainhuuto- ja kiinnitysrekisteristä
 taikka muista kirjaamisviranomaisen käytettävissä olevista
 rekistereistä.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:5
+§
 
 Hakemuksen täydentäminen
 
@@ -1046,8 +1046,8 @@ tietoja. [<u>(29.11.1996/933)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/
 
 Jollei hakija noudata täydennyskehotusta, hakemus jätetään tutkimatta.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:6
+§
 
 Kuuleminen
 
@@ -1066,8 +1066,8 @@ tutkittavaksi oikeudenkäynnissä. Väitteentekijälle kehotus annetaan
 uhalla, että kirjaus muutoin voidaan tehdä, ja hakijalle uhalla, että
 hakemus jätetään tutkimatta.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:7
+§
 
 Suostumuksen antaminen
 
@@ -1082,8 +1082,8 @@ kirjallisen panttikirjan haltijaksi, panttikirjaa ei tarvitse esittää,
 ellei kirjaamisviranomainen niin
 määrää. [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:8
+§
 
 Lepäämään jätetyn hakemuksen käsittely
 
@@ -1098,8 +1098,8 @@ Kirjaamisviranomainen voi omasta aloitteestaan ottaa lepäämään jätetyn
 hakemuksen käsiteltäväkseen. Hakemusta ei kuitenkaan saa hylätä ennen
 kuin hakijalle on varattu tilaisuus tulla kuulluksi.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:9
+§
 
 Kirjaamisasian ratkaiseminen ja toimituskirja
 
@@ -1116,7 +1116,7 @@ asiassa tehdään muu tähän verrattava asian käsittelyä koskeva päätös.
 Toimituskirjaksi hakija saa todistuksen rekisteriin asian lopullisesta
 ratkaisusta tehdyistä merkinnöistä tai erillisen päätöksen.
 
-10
+6:10
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Päätöksen tiedoksianto
@@ -1131,8 +1131,8 @@ tiedoksiannosta. Sama koskee muuta asiaan osallista, jota on kuultu
 asiaa käsiteltäessä, jollei hakemusta ratkaista hänen esittämiensä
 vaatimusten mukaisesti.
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:11
+§
 
 Asiakirjavihko
 
@@ -1142,8 +1142,8 @@ asiakirjavihkoon liitetystä toimituskirjan jäljennöksestä tai muusta
 aineistosta, asiakirjavihkoon on tarvittaessa liitettävä ratkaisun
 perustelut.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:12
+§
 
 Ilmoitukset
 
@@ -1154,8 +1154,8 @@ Ilmoitusten toimittamisesta automaattista tietojenkäsittelyä käyttäen
 lainhuuto- ja kiinnitysrekisterin tietojärjestelmään säädetään
 asetuksella.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:13
+§
 
 Tieto vireillä olevasta oikeudenkäynnistä
 
@@ -1166,8 +1166,8 @@ ratkaisustaan ja siitä, onko sen antama ratkaisu saanut lainvoiman. Sama
 koskee kannetta, jossa vaaditaan kirjauksen julistamista mitättömäksi
 tai sen oikaisemista.
 
-[<u>14
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+6:14
+§
 
 Täydentävät säännökset
 
@@ -1191,7 +1191,7 @@ laissa [<u>(621/1999)</u>](https://www.finlex.fi/fi/laki/ajantasa/1999/19990621
 
 Lainhuuto- ja kiinnitysrekisteri
 
-1
+7:1
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Lainhuuto- ja kiinnitysrekisteriin merkittävät tiedot
@@ -1231,7 +1231,7 @@ ovat muuttuneet, aikaisempien tietojen säilyminen ja käytettävyys on
 varmistettava tiedot erikseen arkistoimalla tai tietotekniikan
 mahdollistamalla muulla tavalla.
 
-1 a
+7:1 a
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Lainhuuto- ja kiinnitysrekisterin käyttötarkoitus
@@ -1251,7 +1251,7 @@ tekemistä ja valvontaa sekä tuomioistuin- ja viranomaistoimintaa varten.
 Lainhuuto- ja kiinnitysrekisterin rekisterinpitäjä on
 Maanmittauslaitos. [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922)
 
-1 b
+7:1 b
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Kirjaamisviranomaisen oikeus saada tietoja
@@ -1287,8 +1287,8 @@ tietoja:
 
 9\) muista yhteisöistä ja säätiöistä pidettävistä rekistereistä.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+7:2
+§
 
 Rekisteristä annettavat tiedot
 
@@ -1310,7 +1310,7 @@ valtioneuvoston asetuksella. Todistuksista perittävistä maksuista
 säädetään
 erikseen. [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922)
 
-[<u>3
+7:3
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Kirjauksen julkisuusvaikutus
@@ -1326,8 +1326,8 @@ muutoin kuin tilapäisesti, Maanmittauslaitos voi päätöksellään pidentää
 kiinnitysrekisterin merkinnän katsotaan tulleen asianomaisten
 tietoon. [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922)
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+7:4
+§
 
 Teknisestä virheestä aiheutuneen vahingon korvaaminen
 
@@ -1350,7 +1350,7 @@ asianomaisen julkisyhteisön varoista.
 Vahingon korvaamisessa on soveltuvin osin noudatettava, mitä 13 luvun
 6–8 §:ssä säädetään.
 
-[<u>5
+7:5
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Saantotiedot
@@ -1361,7 +1361,7 @@ luovutuksesta ja muusta saannosta ennen lainhuutohakemuksen tekemistä.
 Saantotiedoissa olevan virheen tai puutteen perusteella ei voida esittää
 rekisterin pitäjään kohdistuvia vaatimuksia.
 
-6
+7:6
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Arkistoitavaksi siirtäminen
@@ -1374,18 +1374,18 @@ rekisterimerkinnän arkistoitavaksi kirjaamisviranomaisen on tarvittaessa
 varattava rekisteriin merkitylle oikeudenhaltijalle tilaisuus tulla
 kuulluksi.
 
-7
+7:7
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-7 § on kumottu
+7:7 § on kumottu
 L:lla [<u>24.7.2009/572</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572).
 
 8 luku
 
 Virheen korjaaminen
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+8:1
+§
 
 Asiavirheen korjaaminen
 
@@ -1398,8 +1398,8 @@ Asiavirheen saa korjata vain, jos kaikkia niitä, joiden oikeutta
 korjaaminen koskee, on kuultu sekä ne, joiden oikeus korjaamisen vuoksi
 heikkenee, ovat antaneet siihen suostumuksensa.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+8:2
+§
 
 Teknisen virheen korjaaminen
 
@@ -1412,8 +1412,8 @@ Ennen virheen korjaamista on sellaisille kirjaamisviranomaisen tiedossa
 oleville asiaan osallisille, joille voi aiheutua korjauksesta haittaa,
 varattava tilaisuus tulla kuulluksi.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+8:3
+§
 
 Korjaamismenettely
 
@@ -1429,8 +1429,8 @@ ratkaisu.
 Päätökseen, jolla virheen korjaamista koskeva hakemus on hylätty, ei saa
 hakea muutosta valittamalla.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+8:4
+§
 
 Toimituskirjoihin ja todistuksiin tehtävät merkinnät korjaamisesta
 
@@ -1451,7 +1451,7 @@ uhkasakkolakia [<u>(1113/1990)</u>](https://www.finlex.fi/fi/laki/ajantasa/1990
 
 Muutoksenhaku kirjaamisasioissa
 
-1
+9:1
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Valittaminen
@@ -1462,8 +1462,8 @@ ratkaisuun haetaan valittamalla maaoikeuteen.
 *2 momentti on kumottu
 L:lla [<u>13.12.2013/922</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922).*
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+9:2
+§
 
 Valitusosoituksen antaminen
 
@@ -1471,7 +1471,7 @@ Kun kirjaamisasia on ratkaistu toisin kuin hakija tai muu asiaan
 osallinen on pyytänyt, toimituskirjaan on liitettävä kirjallinen
 valitusosoitus.
 
-3
+9:3
 § [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922)
 
 Valitusaika
@@ -1481,7 +1481,7 @@ Muutoksenhakijan on toimitettava valituskirjelmä asianomaiseen
 maaoikeuteen viimeistään valitusajan päättymispäivänä ennen virka-ajan
 päättymistä.
 
-4
+9:4
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Kiinteistönmuodostamislain säännösten soveltaminen
@@ -1489,8 +1489,8 @@ Kiinteistönmuodostamislain säännösten soveltaminen
 Muutoksenhakuun sovelletaan tämän lain lisäksi
 kiinteistönmuodostamislain 19–21 lukua.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+9:5
+§
 
 Muutoksenhakutuomioistuimen ratkaisusta ilmoittaminen ja asian
 palauttaminen
@@ -1509,7 +1509,7 @@ luku [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/1995054
 
 Sähköiset asiointijärjestelmät ja niiden käyttäminen
 
-1
+9a:1
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiointijärjestelmän käyttö ja sähköinen tunnistaminen
@@ -1542,7 +1542,7 @@ antaa toiselle yleinen valtuutus käyttää asiointijärjestelmää
 valtuuttajan puolesta tai oikeus käyttää asiointijärjestelmää
 valtuuttajan puolesta asiakirjoja hyväksymättä.
 
-2
+9a:2
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Tietojen käsittely asiointijärjestelmässä
@@ -1556,7 +1556,7 @@ Sähköisessä asiointijärjestelmässä käsiteltävien henkilötietojen
 rekisterinpitäjä on
 Maanmittauslaitos. [<u>(8.5.2020/338)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a8.5.2020-338)
 
-3
+9a:3
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiointijärjestelmän virheellisestä tai puutteellisesta toiminnasta tai
@@ -1585,7 +1585,7 @@ parlamentin ja neuvoston asetuksessa (EU) 2016/679 (yleinen
 tietosuoja-asetus)
 säädetään. [<u>(8.5.2020/338)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a8.5.2020-338)
 
-4
+9a:4
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiakirjojen laatiminen ja rekisteritietojen käyttö
@@ -1613,7 +1613,7 @@ Asiointijärjestelmän käyttäjällä on oikeus tarkastaa kaupan tai
 kiinnityksen kohdetta koskevat tiedot lainhuuto- ja
 kiinnitysrekisteristä sekä kiinteistörekisteristä.
 
-5
+9a:5
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiointijärjestelmän tietojen luovuttaminen ja poistaminen
@@ -1630,7 +1630,7 @@ Asiointijärjestelmän käyttäjän sekä muiden asiaan osallisten tunniste-
 ja yhteystiedot sekä asian tunnistetiedot säilytetään kirjaamisasioiden
 käsittelyä sekä tietojenkäsittelyn todentamista varten.
 
-6
+9a:6
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kirjaamisviranomaisen päätösten ja niiden tiedoksiantamisen sekä
@@ -1647,7 +1647,7 @@ asiakirja on noudettavissa.
 
 Asiakirjavihko voidaan muodostaa sähköisenä.
 
-7
+9a:7
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköinen kaupankäyntijärjestelmä
@@ -1666,7 +1666,7 @@ liittyviä palveluja. Kaupankäyntijärjestelmässä voidaan ottaa
 käsiteltäviksi myös vakuuksia koskevia sitoumuksia sekä välittää niitä
 kiinnitysjärjestelmään siten kuin jäljempänä säädetään.
 
-8
+9a:8
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Oikeus laatia sähköisen kauppakirjan luonnos
@@ -1679,7 +1679,7 @@ lainhuutona, sähköisen kauppakirjan luonnoksen voi laatia se, joka on
 merkitty lainhuuto- ja kiinnitysrekisteriin kiinteistön omistajaksi tai
 kiinteistöä hallinnoivaksi viranomaiseksi.
 
-9
+9a:9
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kaupan tekeminen sähköisessä kaupankäyntijärjestelmässä
@@ -1698,7 +1698,7 @@ piirroksella, joka laaditaan sähköisen kiinteistörekisterikartan
 pohjalle. Kauppakirjaan voidaan liittää myös muita sähköisiä
 asiakirjoja.
 
-10
+9a:10
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Vakuuksia koskevat sitoumukset
@@ -1716,7 +1716,7 @@ kaupankäyntijärjestelmässä tai kun muut sellaiset edellytykset, jotka
 järjestelmä tarkastaa, ovat
 täyttyneet. [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
-11
+9a:11
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kauppakirjan luonnosten käsittelyä koskevat rajoitukset
@@ -1734,7 +1734,7 @@ Kauppakirjan luonnos katsotaan peruutetuksi, kun 30 päivää on kulunut
 sen edellisestä
 käsittelemisestä. [<u>(23.8.2013/623)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a23.8.2013-623)
 
-12
+9a:12
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Lainhuudatusasian vireilletulo ja tietojen toimittaminen
@@ -1757,7 +1757,7 @@ kaupankäyntijärjestelmän yhteydessä tarjottavassa palvelussa, selvitys
 maksusta voidaan maksajan pyynnöstä välittää palvelusta
 kirjaamisviranomaiselle.
 
-13
+9a:13
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kaupasta tehtävät ilmoitukset
@@ -1766,7 +1766,7 @@ Kun kauppa on tehty, kaupankäyntijärjestelmästä luovutetaan kauppaa
 koskevat tarpeelliset tiedot kiinteistörekisterin pitäjälle, kunnalle,
 väestökirjahallinnolle ja Verohallinnolle.
 
-14
+9a:14
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Soveltuminen muihin luovutuksiin, esisopimukseen ja valtakirjaan
@@ -1790,7 +1790,7 @@ noudattaen soveltuvin osin, mitä kauppakirjan luonnoksen tekemisestä
 säädetään. Valtakirjan peruuttamisesta on soveltuvin osin voimassa, mitä
 11 §:n 2 momentissa säädetään.
 
-15
+9a:15
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköinen kiinnitysjärjestelmä
@@ -1811,7 +1811,7 @@ perusteella ei ilmeisesti voitaisi tehdä.
 Kiinnitysjärjestelmän yhteydessä voidaan tarjota asiointi- ja
 hakemusmaksujen maksamiseen liittyviä palveluja.
 
-16
+9a:16
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköinen kiinnityshakemus ja sen vireilletulo
@@ -1827,7 +1827,7 @@ Ratkaisusta toimitetaan tieto myös sille, joka hakemuksen mukaan on
 kirjattava panttikirjan saajaksi, jos tieto voidaan toimittaa sähköisenä
 viestinä hakemuksessa tai muuten sitä varten ilmoitettuun osoitteeseen.
 
-17
+9a:17
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköisen panttikirjan siirtoa koskeva hakemus sekä kirjallisen
@@ -1850,7 +1850,7 @@ merkinnän poistamisesta. Uutta haltijaa koskevasta merkinnästä on
 kuitenkin toimitettava tieto sille, joka on aikaisemmin merkitty
 kirjallisen panttikirjan haltijaksi.
 
-18
+9a:18
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiointimaksu
@@ -1864,7 +1864,7 @@ perittävistä maksuista ja
 korvauksista [<u>1154/2021</u>](https://www.finlex.fi/fi/laki/smur/2021/20211154),
 joka on voimassa 31.12.2022 saakka.*
 
-19
+9a:19
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Asiointijärjestelmiä koskevat tarkemmat säännökset
@@ -1881,8 +1881,8 @@ KIINTEISTÖN OMISTUSOIKEUDEN JA ERITYISEN OIKEUDEN KIRJAAMINEN
 Kiinteistön omistusoikeuden ja erityisen oikeuden kirjaamista koskevat
 yleiset säännökset
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+10:1
+§
 
 Kiinteistön omistusoikeuden kirjaaminen
 
@@ -1892,8 +1892,8 @@ Lainhuutoa koskevia säännöksiä sovelletaan myös kiinteistön määräosan j
 määräalan sekä kiinteistöjen yhteisen alueen ja sen määräalan sekä
 yhteisalueosuuden saannon kirjaamiseen.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+10:2
+§
 
 Erityisen oikeuden kirjaaminen
 
@@ -1907,8 +1907,8 @@ elinkeinotoiminnassa käytettävän omaisuuden kuulumista kiinteistöön.
 
 Lainhuudatusvelvollisuus
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+11:1
+§
 
 Yleinen lainhuudatusvelvollisuus
 
@@ -1919,8 +1919,8 @@ Lainhuutoa on haettava kuuden kuukauden kuluessa luovutuskirjan tai muun
 saannon perusteena olevan asiakirjan tekemisestä, jollei jäljempänä
 toisin säädetä.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+11:2
+§
 
 Lainhuudatusajan alkaminen perhe- tai perintöoikeudellisessa saannossa
 
@@ -1938,8 +1938,8 @@ erottamiseksi.
 Puolisoiden omaisuuden ositukseen perustuvan kiinteistön saannon
 lainhuudatusaika alkaa siitä, kun ositus saa lainvoiman.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+11:3
+§
 
 Lainhuudatusajan alkaminen viranomaisen päätökseen perustuvassa
 saannossa
@@ -1958,7 +1958,7 @@ perustuvan saannon lainhuudatusaika alkaa siitä, kun kauppakirja
 annetaan
 ostajalle. [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-4
+11:4
 § [<u>(22.7.2011/918)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a22.7.2011-918)
 
 Lainhuudatuksen ulkopuolelle jäävät kiinteistöt
@@ -1969,7 +1969,7 @@ alueen omistusoikeutta ei kirjata lainhuutona. Jos tällainen kiinteistö
 taikka sen määräosa tai määräala luovutetaan edelleen, saannolle on
 haettava lainhuuto.
 
-5
+11:5
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Uhkasakko
@@ -1979,8 +1979,8 @@ ajassa, kirjaamisviranomainen voi velvoittaa hänet määräajassa hakemaan
 lainhuutoa ja asettaa velvollisuuden tehosteeksi uhkasakon. Uhkasakkoa
 koskevaan asiaan sovelletaan uhkasakkolakia.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+11:6
+§
 
 Selvennyslainhuuto
 
@@ -1990,8 +1990,8 @@ pesään kuuluvaan kiinteistöön.
 Kiinteistön omistaja, joka on aikaisemmin huudattanut saantonsa, saa
 hakea lainhuudon oikeusasemansa selventämiseksi.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+11:7
+§
 
 Lainhuutotiedon merkitseminen viranomaisen aloitteesta
 
@@ -2013,8 +2013,8 @@ omistaja.
 
 Lainhuudatusmenettely
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+12:1
+§
 
 Lainhuutohakemuksessa esitettävät selvitykset
 
@@ -2033,8 +2033,8 @@ ulosottokaaren mukaisella huutokaupalla, ulosottomiehen toimittamalla
 vapaalla myynnillä tai
 kiinteistötoimituksessa. [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+12:2
+§
 
 Lainhuutohakemuksen jättäminen lepäämään
 
@@ -2074,8 +2074,8 @@ kiinteistön luovutuksesta on siirtynyt perustetulle yhtiölle, ole
 esitetty kahden vuoden kuluessa luovutussopimuksen tekemisestä,
 lainhuuto myönnetään perustettavan yhtiön lukuun sopimuksen tehneelle.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+12:3
+§
 
 Kuulutuslainhuuto
 
@@ -2103,8 +2103,8 @@ hakijalle voidaan myöntää lainhuuto. Toimivaltaisesta tuomioistuimesta
 ja oikeuspaikkasopimuksesta säädetään [<u>oikeudenkäymiskaaren 10
 luvussa</u>](https://www.finlex.fi/fi/laki/ajantasa/1734/17340004000#L10). [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+12:4
+§
 
 Lainhuutohakemuksen hylkääminen
 
@@ -2132,8 +2132,8 @@ tapahtumista tehty merkintä lainhuuto- ja kiinnitysrekisteriin; tai
 7\) hakijan saanto ei muutoin ole pätevä tai se ei ilmeisesti jää
 pysyväksi.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+12:5
+§
 
 Vallintarajoituksen merkitseminen
 
@@ -2144,7 +2144,7 @@ panttioikeuksia, vallintarajoituksesta on lainhuudatusasian ratkaisun
 yhteydessä taikka muutoin pyynnöstä tehtävä merkintä lainhuuto- ja
 kiinnitysrekisteriin.
 
-6
+12:6
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Ilmoitusten toimittaminen
@@ -2158,8 +2158,8 @@ alueella.
 
 Lainhuudon oikeusvaikutukset
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:1
+§
 
 Muotovirheeseen vetoaminen
 
@@ -2167,8 +2167,8 @@ Saantokirjan muotovirheeseen ei saa vedota sen jälkeen, kun saantokirjan
 perusteella on myönnetty lainhuuto tai lainhuutohakemus on jätetty
 lepäämään.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:2
+§
 
 Omistusriita
 
@@ -2176,8 +2176,8 @@ Lainhuudatusasian ratkaisun estämättä saadaan kysymys omistusoikeudesta
 kiinteistöön sekä saannon pätevyydestä tutkia oikeudenkäynnissä taikka
 kiinteistötoimituksessa sen mukaan kuin siitä erikseen säädetään.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:3
+§
 
 Suoja kaksoisluovutuksessa
 
@@ -2197,8 +2197,8 @@ oikeuden keskinäiseen etusijaan. Luovutus tai erityinen oikeus saa
 edellä mainituilla edellytyksillä etusijan myös ennen aikaisempaa
 kiinteistön saantoa, joka ei perustu luovutukseen.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:4
+§
 
 Suoja oikeaa omistajaa vastaan
 
@@ -2220,8 +2220,8 @@ oikeaan omistajaan nähden. Mitä tässä pykälässä säädetään lainhuudost
 koskee myös vireillä olevaa lainhuutohakemusta, jonka perusteella
 lainhuuto myönnetään.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:5
+§
 
 Poikkeukset luovutuksensaajan suojasta
 
@@ -2240,8 +2240,8 @@ siihen pakotettu varallisuusoikeudellisista oikeustoimista annetun lain
 on erehdyksessä merkitty lainhuudon saajaksi tai jos merkintä
 lainhuudosta ei perustu kirjaamisviranomaisen ratkaisuun.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:6
+§
 
 Valtion vahingonkorvausvastuu
 
@@ -2259,8 +2259,8 @@ tai johonkin muuhun oikeutensa pysyvyyteen vaikuttavaan seikkaan taikka
 on muulla tavalla myötävaikuttanut vahinkoon, vahingonkorvausta voidaan
 kohtuuden mukaan sovitella.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:7
+§
 
 Valtion takautumisoikeus
 
@@ -2274,8 +2274,8 @@ tulee lainvoimaiseksi. Valtio voi nostaa takautumisvaatimusta koskevan
 kanteen käsiteltäväksi samassa oikeudenkäynnissä, jossa siltä vaaditaan
 korvausta.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:8
+§
 
 Menettelyä koskevat säännökset
 
@@ -2292,8 +2292,8 @@ siitä, kun tuomioistuimen päätös omistusoikeudesta kiinteistöön on
 saanut lainvoiman. Kanne käsitellään kiinteistön sijaintipaikan
 tuomioistuimessa.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:9
+§
 
 Suoja muissa kuin luovutussaannoissa
 
@@ -2313,8 +2313,8 @@ L:lla [<u>705/2007</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/20070705),
 ks. Ulosottokaari [<u>705/2007 5 luku 8
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/20070705#L5P8).*
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:10
+§
 
 Nautintasuoja
 
@@ -2330,8 +2330,8 @@ toiselle, tämä voi vedota myös edeltäjiensä lainhuutoon ja
 omistajanhallintaan sekä siihen, että hän itse tai joku hänen
 edeltäjistään on ollut saantonsa tapahtuessa vilpittömässä mielessä.
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+13:11
+§
 
 Vastaajakelpoisuus
 
@@ -2348,8 +2348,8 @@ lain säännöksen perusteella.
 
 Erityisen oikeuden kirjaaminen
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:1
+§
 
 Kirjattavat erityiset oikeudet
 
@@ -2372,8 +2372,8 @@ Metsänhakkuuoikeus kirjataan olemaan voimassa enintään viisi vuotta ja
 irrottamisoikeus enintään 50 vuotta oikeuden perustamisesta sekä
 käyttöoikeus enintään laissa säädetyn enimmäisajan.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:2
+§
 
 Kirjaamisvelvollisuus
 
@@ -2388,16 +2388,16 @@ saanut käyttöoikeuden luovutuksen tai muun saannon perusteella.
 Määräajasta, jonka kuluessa kirjaamista on haettava, sekä uhkasakosta on
 soveltuvin osin voimassa, mitä 11 luvun 1–6 §:ssä säädetään.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:3
+§
 
 Sopimus kiinteistön hallinnan jakamisesta
 
 Kirjata saadaan kiinteistön yhteisomistajien keskinäinen sopimus
 kiinteistön hallinnasta.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:4
+§
 
 Rakennusta tai laitetta koskevan oikeuden kirjaus
 
@@ -2415,8 +2415,8 @@ haltijalle käyttöoikeuteen kuuluvaksi.
 Omistuksenpidätys- tai takaisinottoehtoon perustuva oikeus kirjataan
 olemaan voimassa enintään viisi vuotta sopimuksen tekemisestä.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:5
+§
 
 Ainesosien ja tarpeiston määritys
 
@@ -2432,8 +2432,8 @@ kiinteistön ainesosaksi tai tarpeistoksi; tai
 2\) kuuluu kiinteistöön, vaikka sitä muutoin ei olisi katsottava
 kiinteistön ainesosaksi tai tarpeistoksi.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:6
+§
 
 Kirjauksen kohde
 
@@ -2453,8 +2453,8 @@ kirjausta. Jos erityinen oikeus kohdistuu lainhuudatuksen ulkopuolelle
 jäävään kiinteistöön, perustajan omistusoikeudesta on lainhuudon sijasta
 esitettävä muu selvitys.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:7
+§
 
 Erityisen oikeuden kirjaamisen oikeusvaikutukset
 
@@ -2469,8 +2469,8 @@ Mitä 13 luvun 4–9 ja 11 §:ssä säädetään lainhuudon oikeusvaikutuksista,
 koskee myös 2 §:ssä tarkoitetun käyttöoikeuden kirjauksen
 oikeusvaikutuksia.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:8
+§
 
 Etusija
 
@@ -2488,8 +2488,8 @@ momentissa tarkoitettu kirjaus.
 Etusijajärjestyksen muuttamisesta on voimassa, mitä 18 luvun 1 §:ssä
 säädetään.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:9
+§
 
 Kirjaamismenettely
 
@@ -2499,8 +2499,8 @@ omistaja.
 Hakijan on esitettävä kirjattavan oikeuden perustamista tai siirtämistä
 koskeva sopimus tai muu asiakirja alkuperäisenä.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:10
+§
 
 Suostumus
 
@@ -2517,8 +2517,8 @@ Jos kiinteistön omistajan omaisuuteen kohdistuu yrityskiinnitys, saadaan
 5 §:n 2 kohdassa tarkoitettu kirjaus tehdä vain, jos kaikki
 yrityskiinnityksen haltijat antavat siihen suostumuksensa.
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:11
+§
 
 Kirjaamishakemuksen jättäminen lepäämään
 
@@ -2542,8 +2542,8 @@ ennen oikeuden perustamista; tai
 riidan käsiteltäväksi oikeudenkäynnissä taikka vireillä on riita
 erityisen oikeuden pätevyydestä taikka kiinteistön omistusoikeudesta.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:12
+§
 
 Kirjaamishakemuksen hylkääminen
 
@@ -2575,8 +2575,8 @@ haettu eikä hän anna suostumusta kirjaamiseen; tai
 8\) kirjattavaa oikeutta ei ole muutoin pätevästi perustettu tai oikeus
 ei ilmeisesti jää pysyväksi.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:13
+§
 
 Oikeuden muuttamisen, siirron ja lakkaamisen kirjaaminen
 
@@ -2587,8 +2587,8 @@ kirjaamisesta säädetään.
 Kirjauksen oikeusvaikutukset koskevat sopimukseen tai oikeustoimeen
 perustuvaa erityisen oikeuden muutosta vain, jos muutos on kirjattu.
 
-[<u>14
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:14
+§
 
 Edellytykset kirjauksen muuttamiseen
 
@@ -2602,8 +2602,8 @@ vaikutus on vähäinen.
 Mitä 1 momentissa säädetään, koskee myös sellaisen kirjatun oikeuden
 muuttamista, johon kohdistuu kiinnitys tai toinen erityinen oikeus.
 
-[<u>15
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:15
+§
 
 Erityisen oikeuden kirjauksen poistaminen
 
@@ -2624,8 +2624,8 @@ ilmoituksesta, jos ne kiinteistökiinnitykseen tai yrityskiinnitykseen
 perustuvan panttioikeuden haltijat, joiden asema heikkenee, antavat
 siihen suostumuksensa.
 
-[<u>16
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+14:16
+§
 
 Panttioikeuden vaikutus kirjauksen poistamiseen
 
@@ -2655,8 +2655,8 @@ KIINTEISTÖPANTTIOIKEUS
 
 Kiinteistöpanttioikeutta koskevat yleiset säännökset
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+15:1
+§
 
 Kiinteistöpanttioikeuden soveltamisala
 
@@ -2668,8 +2668,8 @@ Kiinteistön kiinnittämistä ja panttausta koskevia säännöksiä sovelletaan
 myös kiinteistön määräosan ja määräalan kiinnittämiseen ja
 panttaamiseen.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+15:2
+§
 
 Panttioikeuden perustaminen
 
@@ -2686,8 +2686,8 @@ kirjaamalla se lainhuuto- ja kiinnitysrekisteriin.
 
 Kiinteistökiinnitys
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:1
+§
 
 Kiinnityksen kohde
 
@@ -2699,7 +2699,7 @@ myöntää lainhuuto.
 Tonttiin, johon kohdistuu rekisteröity tontinvuokraoikeus, ei saa
 vahvistaa kiinnitystä.
 
-2
+16:2
 § [<u>(13.12.2013/922)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a13.12.2013-922)
 
 Yhteiskiinnitys
@@ -2717,8 +2717,8 @@ määräosin, jollei sopimusta kiinteistön hallinnasta ole kirjattu ja
 jollei johonkin määräosaan ole aikaisemmin vahvistettu erillistä
 kiinnitystä.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:3
+§
 
 Kiinnityksen hakija
 
@@ -2731,7 +2731,7 @@ lykkäävän ehdon vuoksi taikka sen vuoksi, että kiinteistö on hankittu
 perustettavan yhtiön lukuun, ja kiinteistön luovuttaja antaa
 suostumuksensa kiinnittämiseen.
 
-4
+16:4
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Kiinnityksen hakeminen
@@ -2751,7 +2751,7 @@ saajaksi. Jos saaja on ilmoitettu hakemuksessa, hakemusta ei saa muuttaa
 tai peruuttaa ilman hänen
 suostumustaan. [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
-4 a
+16:4 a
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Valtuutus kiinnityksen hakemiseen
@@ -2766,7 +2766,7 @@ nojalla, josta käyvät ilmi 1 momentissa mainitut seikat. Asiamies voi
 toimia kiinnitysjärjestelmässä myös sellaisen valtuutuksen nojalla,
 josta säädetään 9 a luvun 1 §:n 3 momentissa.
 
-5
+16:5
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
 Sähköinen panttikirja
@@ -2777,8 +2777,8 @@ Sähköinen panttikirja annetaan tekemällä lainhuuto- ja
 kiinnitysrekisteriin panttikirjan sähköistä muotoa osoittava merkintä ja
 kirjaamalla tiedot sähköisen panttikirjan saajasta.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:6
+§
 
 Kiinnityshakemuksen jättäminen lepäämään
 
@@ -2795,8 +2795,8 @@ suostumustaan kiinnittämiseen;
 turvaamistoimesta on tehty merkintä lainhuuto- ja kiinnitysrekisteriin
 ennen kiinnityshakemuksen vireilletuloa.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:7
+§
 
 Kiinnityshakemuksen hylkääminen
 
@@ -2819,8 +2819,8 @@ vallintarajoituksen mukaan vahvistaa kiinnitystä; tai
 6\) hakemuksen tarkoittamaa kiinnitystä ei muusta syystä voida
 vahvistaa.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:8
+§
 
 Kiinnityksen etusija ja voimassaolo
 
@@ -2838,7 +2838,7 @@ hakijan saanto kiinteistöön ei 13 luvun 5 §:n mukaan voi jäädä pysyväksi
 taikka jos kiinnitys perustuu väärennettyyn asiakirjaan tai se on
 muutoin saatu aikaan mainitussa pykälässä tarkoitetuissa olosuhteissa.
 
-8 a
+16:8a
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Sähköisen panttikirjan saajaa koskeva kirjaus
@@ -2859,7 +2859,7 @@ panttikirjan saajaksi kiinteistön omistajan tai muun, joka lainvoimaisen
 tuomion mukaan on oikeutettu panttikirjaan sen saajaksi merkityn
 asemesta. [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
-9
+16:9
 § [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
 Merkintä kirjallisen panttikirjan haltijasta
@@ -2876,8 +2876,8 @@ merkinnästä, jollei ilmoituksen tekijä ole esittänyt panttikirjaa.
 Kirjaamisviranomaisen on poistettava kirjallisen panttikirjan hallintaa
 koskeva tieto sen haltijaksi merkityn ilmoituksesta.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+16:10
+§
 
 Kiinteistönmuodostuksen vaikutus kiinnitykseen
 
@@ -2902,8 +2902,8 @@ vaikutuksista kiinnitykseen säädetään erikseen.
 
 Panttioikeus kiinteistöön
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:1
+§
 
 Oikeus perustaa panttioikeus
 
@@ -2913,8 +2913,8 @@ Kiinteistön omistaja voi valtuuttaa asiamiehen perustamaan
 panttioikeuden. Kiinteistön omistajan on allekirjoitettava valtakirja ja
 siitä on käytävä ilmi valtuutetun nimi ja panttikirja.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:2
+§
 
 Panttioikeuden syntyminen
 
@@ -2944,8 +2944,8 @@ Jos panttikirja on luovutettu myöhemmin syntyvän saamisen vakuudeksi,
 velkoja saa panttioikeuden, kun saaminen
 syntyy. [<u>(4.2.2011/96)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a4.2.2011-96)
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:3
+§
 
 Panttaussitoumus
 
@@ -2962,7 +2962,7 @@ toiselle velkojalle tai sitoumuksen antajalla ei muutoin ole oikeutta
 määrätä siitä, velkojalla on oikeus saada korvaus vahingostaan
 sitoumuksen antajalta.
 
-[<u>4
+17:4
 §</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
 
 Panttausvallan katkeaminen
@@ -2978,8 +2978,8 @@ kiinteistöön vahvistettuun kiinnitykseen perustuvan panttikirjan ennen
 kuin määräalan saannolle on haettu lainhuutoa, mutta panttioikeus
 kohdistuu tällöin ainoastaan hänen omistamaansa osaan kiinteistöstä.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:5
+§
 
 Panttioikeuden sisältö
 
@@ -2996,8 +2996,8 @@ panttikirja on luovutettu.
 
 Panttikirjaa ei saa ulosmitata.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:6
+§
 
 Kiinnityksen kuolettamisen ja saamisen vanhentumisen vaikutus
 panttioikeuteen
@@ -3011,8 +3011,8 @@ kiinteistöstä, vaikka saaminen on vanhentunut tai hän ei ole ilmoittanut
 saamistaan konkurssivalvonnassa tai tuntemattomille velkojille
 osoitetussa kuulutuksessa määrättynä päivänä.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:7
+§
 
 Vakuusarvon heikkeneminen
 
@@ -3027,8 +3027,8 @@ Jollei velkoja kuuden kuukauden kuluessa siitä, kun hän sai tiedon 1
 momentissa mainitusta seikasta, vaadi kanteella saamistaan
 maksettavaksi, hänellä ei ole oikeutta maksun saamiseen ennen eräpäivää.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:8
+§
 
 Oikeus vakuutus- ja lunastuskorvaukseen
 
@@ -3051,8 +3051,8 @@ Lunastuskorvauksen ja kiinteistötoimituksessa määrätyn korvauksen
 maksamisesta velkojalle, jolla on panttioikeus kiinteistöön, säädetään
 erikseen.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:9
+§
 
 Yhteiskiinnitettyjen kiinteistöjen keskinäinen vastuu panttioikeudesta
 
@@ -3092,8 +3092,8 @@ ks. Ulosottokaari [<u>705/2007 5
 luku</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/20070705#L5) 67 ja
 69 §.*
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:10
+§
 
 Suoja kiinteistön luovutuksessa
 
@@ -3122,8 +3122,8 @@ kuluessa lainhuuto- ja kiinnitysrekisterin merkinnän katsotaan tulleen
 asianomaisten tietoon, koskee myös edellä tässä pykälässä tarkoitettuja
 aikoja. [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:11
+§
 
 Suoja oikeaa omistajaa vastaan ja valtion vahingonkorvausvastuu
 
@@ -3135,8 +3135,8 @@ säädetään. Velkojan oikeutta saada korvausta panttioikeuden
 menettämisestä aiheutuneesta vahingosta ei estä se, että kiinnityspäätös
 on purettu tai julistettu mitättömäksi.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:12
+§
 
 Suoja pakkotäytäntöönpanossa
 
@@ -3156,8 +3156,8 @@ kiinnitysrekisteriin ennen saamisen oikeusperusteen syntymistä eikä
 velkoja muutoinkaan tällöin tiennyt eikä hänen pitänyt tietää, ettei
 omistajalla enää ollut oikeutta pantata kiinteistöä.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+17:13
+§
 
 Kiinteistön luovutuksen purkaminen ja sen vaikutus panttioikeuteen
 
@@ -3178,8 +3178,8 @@ kiinteistöön, kun lainhuuto määräosaan tai määräalaan on poistettu.
 
 Kiinnityksen muuttaminen
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:1
+§
 
 Etusijajärjestyksen muuttaminen
 
@@ -3195,8 +3195,8 @@ osalta yhtäläisesti. Etusijajärjestystä ei saa muuttaa niin, että
 sellainen kiinnitys, joka ei kohdistu kaikkiin kiinteistöihin, tulee
 yhteiskiinnitystä paremmalle etusijalle.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:2
+§
 
 Kiinnityksen laajentaminen
 
@@ -3204,8 +3204,8 @@ Kiinnitys saadaan kiinteistön omistajan hakemuksesta ja panttioikeuden
 haltijan suostumuksella laajentaa koskemaan myös muuta hänelle kuuluvaa
 kiinteistöä 16 luvun 2 §:ssä säädetyillä edellytyksillä.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:3
+§
 
 Kiinnitysten yhdistäminen
 
@@ -3220,8 +3220,8 @@ Yhdistetyn kiinnityksen rahamäärä saadaan hakijan pyynnöstä ja
 panttioikeuden haltijan suostumuksella alentaa yhdistettävien
 kiinnitysten yhteenlaskettua määrää pienemmäksi.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:4
+§
 
 Kiinnityksen jakaminen
 
@@ -3233,8 +3233,8 @@ määrää.
 Jakamalla syntyneet kiinnitykset saavat saman etusijan, jollei niiden
 keskinäistä etusijajärjestystä ole hakijan pyynnöstä toisin määrätty.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:5
+§
 
 Kiinnityksen kuolettaminen
 
@@ -3244,7 +3244,7 @@ suostumuksella. Yhteiskiinnityksen kuolettamista saa hakea joku
 yhteiskiinnityksen kohteena olevien kiinteistöjen omistajista muiden
 kiinteistöjen omistajien suostumuksetta.
 
-5 a
+18:5a
 § [<u>(14.12.1998/964)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a14.12.1998-964)
 
 Kiinnityksen muuntaminen euroiksi
@@ -3263,8 +3263,8 @@ kiinnityksen rahamäärän markoista euroiksi edellä tarkoitetulla tavalla,
 kun kiinnitystä muutoin muutetaan tai kun kiinnityksestä annetaan uusi
 panttikirja.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+18:6
+§
 
 Yhteiskiinnityksen purkaminen
 
@@ -3297,7 +3297,7 @@ kiinteistöjen omistajista taikka panttioikeuden haltija. Mitä tässä
 pykälässä säädetään lohkokiinteistöstä, koskee myös kiinnitetystä
 kiinteistöstä luovutettua määräalaa.
 
-7
+18:7
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
 Menettely kiinnitystä muutettaessa
@@ -3314,7 +3314,7 @@ kirjaamisviranomainen tekee siitä merkinnän lainhuuto- ja
 kiinnitysrekisteriin, kun ilmoitus lainvoimaisesta päätöksestä on
 saapunut.
 
-7 a
+18:7 a
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
 Kirjallisen panttikirjan muuttaminen sähköiseen muotoon
@@ -3350,7 +3350,7 @@ ja kiinnitysrekisteriin tehdään merkintä kiinnityksen muuttamisesta muun
 lain nojalla, jos alkuperäinen kirjallinen panttikirja on toimitettu
 kirjaamisviranomaiselle.
 
-8
+18:8
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
 Panttikirjan kuolettaminen
@@ -3371,7 +3371,7 @@ merkitsee hakijan sähköisen panttikirjan saajaksi, kun tuomioistuin
 ilmoittaa sille lainvoimaisesta ratkaisustaan, jolla saajaa koskeva
 kirjaus määrätään poistettavaksi.
 
-9
+18:9
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
 Oikeus muutettuun panttikirjaan
@@ -3380,18 +3380,18 @@ Panttioikeuden haltijalla on 7 a §:ssä ja 8 §:n 1 momentissa
 tarkoitettuun sähköiseen panttikirjaan sama oikeus kuin korvattuun
 panttikirjaan.
 
-10
+18:10
 § [<u>(3.6.2016/418)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418)
 
-10 § on kumottu
+18:10 § on kumottu
 L:lla [<u>3.6.2016/418</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a3.6.2016-418).
 
 19 luku
 
 Kiinnitys ja panttioikeus käyttöoikeuteen ja rakennuksiin
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:1
+§
 
 Käyttöoikeutta koskevan kiinnityksen kohde
 
@@ -3406,16 +3406,16 @@ Kiinnitys saadaan vahvistaa myös käyttöoikeuden määräosaan.
 Samaa kiinnitystä ei saa vahvistaa kahteen tai useampaan käyttöoikeuteen
 taikka kiinteistöön ja käyttöoikeuteen.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:2
+§
 
 Käyttöoikeutta koskevan kiinnityksen hakija
 
 Kiinnitys vahvistetaan sellaisen käyttöoikeuden haltijan hakemuksesta,
 jonka oikeus on viimeksi kirjattu.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:3
+§
 
 Kiinteistökiinnitystä ja -panttioikeutta koskevien säännösten
 soveltaminen
@@ -3433,8 +3433,8 @@ Mitä 1 ja 2 momentissa mainituissa lainkohdissa säädetään kiinteistöstä,
 koskee käyttöoikeutta ja mitä vastaavasti säädetään lainhuudosta, koskee
 oikeuden kirjaamista.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:4
+§
 
 Käyttöoikeuden muuttaminen
 
@@ -3442,8 +3442,8 @@ Käyttöoikeuden muuttamista koskeva sopimus ei sido panttioikeuden
 haltijaa ennen kuin muutos on kirjattu. Muutoksen kirjaamisen
 edellytyksistä säädetään 14 luvun 14 §:ssä.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:5
+§
 
 Käyttöoikeuden lakkaaminen
 
@@ -3467,8 +3467,8 @@ käyttöoikeuteen kohdistuvaa panttikirjaa saa luovuttaa vakuudeksi.
 Panttioikeus on kuitenkin pysyvä, jos velkoja ei panttaushetkellä
 tiennyt eikä hänen pitänyt tietää, että käyttöoikeus on lakannut.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:6
+§
 
 Kiinnityksen siirtäminen kiinteistöön
 
@@ -3488,8 +3488,8 @@ kiinnitysten kohteeseen ennen kuin käyttöoikeuden kirjaus on poistettu.
 Kiinteistöön vahvistetut kiinnitykset koskevat tämän jälkeen myös
 aikaisemmin käyttöoikeuteen kuulunutta omaisuutta.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+19:7
+§
 
 Rakennusten luovuttaminen käyttöoikeuden haltijalle
 
@@ -3504,8 +3504,8 @@ tarkoitettua esinettä.
 
 Lakisääteinen panttioikeus
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:1
+§
 
 Luvun soveltamisala
 
@@ -3519,8 +3519,8 @@ sovelletaan myös silloin, kun lakisääteinen panttioikeus koskee
 kiinteistön määräosaa, määräalaa taikka maanvuokraoikeutta tai muuta
 toisen maahan kohdistuvaa käyttöoikeutta.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:2
+§
 
 Lakisääteisen panttioikeuden kirjaaminen
 
@@ -3538,8 +3538,8 @@ kyseisen maksuerän suoritus on laiminlyöty.
 Ilmoituksen tekemisestä sekä siitä rahamäärästä, jota pienempää saamista
 ei saa kirjata lakisääteiseksi panttioikeudeksi, säädetään asetuksella.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:3
+§
 
 Luovutuksen ja pakkotäytäntöönpanon vaikutus
 
@@ -3559,8 +3559,8 @@ kiinnitysrekisteriin ennen kuin kirjaamisviranomaiselle on tehty
 ilmoitus kiinteistön ulosmittauksesta tai turvaamistoimesta taikka sen
 kuulumisesta konkurssipesään.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:4
+§
 
 Kirjauksen vaikutukset
 
@@ -3577,8 +3577,8 @@ saamiselle maksetaan.
 Kirjauksen estämättä saadaan kysymys lakisääteisestä panttioikeudesta
 kiinteistöön sekä saamisen suuruudesta tutkia erikseen.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:5
+§
 
 Kirjaamisen esteet
 
@@ -3608,8 +3608,8 @@ määrätty meneväksi kiinteistöstä sellaisen hyödyn perusteella, joka
 kiinteistölle on tullut edellä tarkoitetussa
 menettelyssä. [<u>(22.7.2011/918)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a22.7.2011-918)
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:6
+§
 
 Kirjauksen poistaminen
 
@@ -3618,8 +3618,8 @@ kirjaus poistettavaksi, kun saaminen on lakannut tai kun panttioikeus ei
 enää ole voimassa. Kirjaus voidaan poistaa tällöin myös kiinteistön
 omistajan hakemuksesta.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a540-1995)
+20:7
+§
 
 Kiinteistöpanttioikeutta koskevien säännösten soveltaminen
 
@@ -3635,7 +3635,7 @@ ERINÄISET SÄÄNNÖKSET
 
 Tarkemmat säännökset ja voimaantulo
 
-1
+21:1
 § [<u>(24.7.2009/572)</u>](https://www.finlex.fi/fi/laki/ajantasa/1995/19950540#a24.7.2009-572)
 
 Tarkemmat säännökset
@@ -3644,7 +3644,7 @@ Tarkemmat säännökset lainhuuto- ja kiinnitysrekisteriin merkittävistä
 tiedoista, kirjaamisasioiden käsittelystä sekä lainhuuto- ja
 kiinnitysrekisterin pitämisestä annetaan valtioneuvoston asetuksella.
 
-2 §
+21:2 §
 
 Voimaantulosäännös
 
